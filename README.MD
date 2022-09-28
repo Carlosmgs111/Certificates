@@ -1,3 +1,3 @@
 # Here are all my certificates
 
-Total: 71
+Total: 72
