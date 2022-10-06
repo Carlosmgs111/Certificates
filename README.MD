@@ -72,5 +72,6 @@
 ![diploma-python-2019 pdf_1](https://user-images.githubusercontent.com/41123597/192820994-56191f65-2d3d-4062-b9fd-b842573b2c2e.jpg)
 ![diploma-python-intermedio pdf_1](https://user-images.githubusercontent.com/41123597/192820996-efab497a-d3d5-4d9c-89c6-1254f8ae60ab.jpg)
 ![diploma-python-profesional pdf_1](https://user-images.githubusercontent.com/41123597/192821001-d7dcbef8-5494-4815-a440-fa0fe0986bc3.jpg)
+![diploma-pro-arquitectura pdf_1](https://user-images.githubusercontent.com/41123597/194402168-3b0ddf1b-737a-43da-ab2d-5f282f5023bf.jpg)
 
-Total: 72
+Total: 73
