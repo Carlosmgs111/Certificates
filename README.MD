@@ -16,6 +16,7 @@
 ![diploma-web-scraping pdf_1](https://user-images.githubusercontent.com/41123597/192820813-cde378e5-cb82-45d5-b9cc-6c68eb27a4c0.jpg)
 ![diploma-algoritmos-2017 pdf_1](https://user-images.githubusercontent.com/41123597/192820816-3c85f659-a69d-498d-9fa9-7cf2551f86bb.jpg)
 ![diploma-arquitectura-software pdf_1](https://user-images.githubusercontent.com/41123597/192820822-889a1fe2-c265-4e54-846d-6392ee8b2b8a.jpg)
+
 ![diploma-arrays pdf_1](https://user-images.githubusercontent.com/41123597/192820828-5785fe57-0913-4b99-b368-8313e10c5216.jpg)
 ![diploma-asincronismo-js pdf_1](https://user-images.githubusercontent.com/41123597/192820833-9040dc1b-fee1-4542-8a99-e20a10052622.jpg)
 ![diploma-asincronismo-js-old pdf_1](https://user-images.githubusercontent.com/41123597/192820835-d01f49b7-0ba6-4b62-a2ea-1c5cad8e9ddb.jpg)
